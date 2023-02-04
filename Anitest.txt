@@ -1,0 +1,42 @@
+frames: 1000
+speed: 10fps
+2
+
+Circle
+r: 50
+x: 150
+y: 150
+color: 0, 255, 0
+Show
+start: 30
+Jump
+start: 50
+x: 100
+y: 100
+Hide
+start: 130
+
+Rect
+length: 100
+width: 50
+x: 25
+y: 25
+border: 5
+Show
+start: 15
+Jump
+start: 50
+x: 30
+y: 30
+Changecolor
+start: 50
+color: 0, 255, 0
+start: 80
+Hide
+start: 130
+
+
+
+
+
+
